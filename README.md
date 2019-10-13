@@ -17,7 +17,7 @@ So in this project, I implemented the Auxiliary Classifier GAN using the DCGAN a
 
 | ![demo](docs/ac-dcgan.gif) | 
 |:--:| 
-| *Training results after each of 20 epochs* |
+| *Training results after each of the 20 epochs* |
 
 ## Reference
 [Keras GAN for MNIST Github Code](https://github.com/Zackory/Keras-MNIST-GAN)
